@@ -1,5 +1,5 @@
 # Semester 1 Reflective Report
-Word count: 549
+Word count: 546
 
 #Weekly Reflective Report
 
